@@ -1,0 +1,23 @@
+body{
+  background-color: #F3F2F2; 
+}
+.container-fluid .numberofplayers .go{
+  float:right;
+
+}
+
+.container-fluid .numberofplayers{
+  margin-left: 450px;
+  margin-top:200px;
+  
+}
+
+.container-fluid .nameofplayers{
+  margin-top:60px;
+  margin-left:450px;
+}
+
+.container-fluid .nameofplayers .go{
+  float:right;
+  margin-top: 10px;
+}
